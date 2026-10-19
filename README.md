@@ -1,3 +1,7 @@
+> [!WARNING]
+> **Test data, do not install.** These skills exist only to test skill managers and do nothing useful.
+> 测试数据，请勿安装：这些 skill 只用来测试 skill 管理工具，没有实际用途。
+
 # Skill manager test fixtures
 
 Twenty small, harmless agent skills (one folder each under `skills/`, a `SKILL.md` and nothing else), used by
